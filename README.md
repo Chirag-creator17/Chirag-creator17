@@ -57,7 +57,7 @@ or [![Gmail Badge](https://img.shields.io/badge/chiraggoel172002@gmail.com-c1443
 if you are on a similar path as mine.
 
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Chirag_Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-goel-b578841b9/)](https://www.linkedin.com/in/chirag-goel/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Chirag_Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-goel-b578841b9/)](https://www.linkedin.com/in/chirag-goel-b578841b9/)
 
 
 ----------------------------------------------------------
@@ -68,6 +68,6 @@ if you are on a similar path as mine.
 
 [twitter]: https://twitter.com/ChiragG21567447
 [instagram]: https://www.instagram.com/chirag_goel172/
-[linkedin]: https://www.linkedin.com/in/chirag-goel/
+[linkedin]: https://www.linkedin.com/in/chirag-goel-b578841b9/
 [gmail]: mailto:chiraggoel172002@gmail.com
 
