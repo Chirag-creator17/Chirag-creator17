@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm [Chirag](https://github.com/Chirag-creator17) 👨‍💻
-
+<br><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="300px" align="center">
 ## I'm a Student, Developer, Competitive Programmer, and Open Source Enthusiast!!
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
@@ -9,7 +9,7 @@
 - 🏀 Fun fact: I love to play Basketball.
 - 📫 How to reach me: chiraggoel172002@gmail.com
 <!-- - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)  -->
-
+</br>
 
 ### Connect with me:
 
