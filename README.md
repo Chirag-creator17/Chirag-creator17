@@ -56,7 +56,7 @@
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
 
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Chirag_Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-goel/)](https://www.linkedin.com/in/chirag-goel/)
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Chirag_Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-goel-b578841b9/)](https://www.linkedin.com/in/chirag-goel-b578841b9/)
 or [![Gmail Badge](https://img.shields.io/badge/chiraggoel172002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chiraggoel172002@gmail.com)](mailto:chiraggoel172002@gmail.com)
 
 
