@@ -60,7 +60,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 or [![Gmail Badge](https://img.shields.io/badge/chiraggoel172002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chiraggoel172002@gmail.com)](mailto:chiraggoel172002@gmail.com)
 
 
-❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/Chirag-creator17?label=Follow&style=social)](https://github.com/Chirag-creator17?tab=followers) and [![Twitter Badge](https://img.shields.io/badge/-@ChiragG21567447-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChiragG21567447)](https://twitter.com/ChiragG21567447)
+❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/Chirag-creator17?label=Followers&style=social)](https://github.com/Chirag-creator17?tab=followers) and [![Twitter Badge](https://img.shields.io/badge/-@ChiragG21567447-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChiragG21567447)](https://twitter.com/ChiragG21567447)
 if you are on a similar path as mine.
 
 
