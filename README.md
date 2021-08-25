@@ -2,7 +2,7 @@
 <br><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="300px" align="center">
 ## I'm a Student, Developer, Competitive Programmer, and Open Source Enthusiast!!
 
-- 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
+- 🌱 I am a MERN Stack developer
 - 👯 I’m looking for something new or creating some project.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 🏆 I'm also having a great interest in competitive programming.
