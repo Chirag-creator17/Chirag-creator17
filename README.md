@@ -26,7 +26,7 @@
 
 ### Coding Platforms profile
 <p align="left">
-<a href="https://www.codechef.com/users/chirag_177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chirag_177" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hunter_102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chirag_177" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/chirag_177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="chirag_177" height="30" width="40" /></a>
 <a href="https://leetcode.com/chirag_177/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="chirag_177" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chiraggoel172002/practice/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chirag_177" height="30" width="40" /></a>
